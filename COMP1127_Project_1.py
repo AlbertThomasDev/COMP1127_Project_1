@@ -10,12 +10,6 @@ import sys
 #
 #
 
-"""
-Group Information:
-Member 1: 620163342 
-Member 2: 620157851
-"""
-
 
 #Part 1
 def makePatient(age,sex,trestbps, chol,fbs,thalach,oldpeak):
